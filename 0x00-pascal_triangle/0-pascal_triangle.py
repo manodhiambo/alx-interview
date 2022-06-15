@@ -1,6 +1,5 @@
 #!/usr/bin/python3
 
-#!/usr/bin/python3
 """
 Returns a list if n <= 0
 You can assume n will always be an integer
